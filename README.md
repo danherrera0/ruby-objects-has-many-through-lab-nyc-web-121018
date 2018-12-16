@@ -11,8 +11,12 @@
 
 In this lab, we'll be dealing with two sets of three classes.
 
-We have a `Song`, `Artist` and `Genre` class. Songs belong to an artist and
-belong to a genre. A genre has many songs and an artist has many songs. An
+We have a `Song`, `Artist` and `Genre` class.
+
+Songs belong to an artist and
+Songs belong to a genre.
+A genre has many songs.
+An artist has many songs. An
 artist has many genres through its songs and a genre has many artists through
 its songs.
 
@@ -101,4 +105,3 @@ Now let's move on to our `Doctor`/`Appointment`/`Patient` domain model.
   `Appointment`.
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/ruby-objects-has-many-through-lab'>Has Many Objects Through Lab</a> on Learn.co and start learning to code for free.</p>
-
