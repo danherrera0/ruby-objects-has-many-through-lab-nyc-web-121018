@@ -29,3 +29,5 @@ def patients
     appointment.patient
   end
 end
+
+end 
